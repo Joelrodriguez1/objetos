@@ -19,6 +19,7 @@ public class NivelUno extends World
         super(800, 600, 1); 
         addObject(new Suelo(), 400, getHeight()-20);
         addObject(new Player(), 400, 500);
+        prepare();
     }
     
     public void act(){
@@ -26,5 +27,19 @@ public class NivelUno extends World
             Greenfoot.setWorld(new NivelUno());
         }
         
+    }
+    /*
+        Crea los enemigos
+       */
+    private void prepare(){
+        
+        Enemigo[] etipo1 = new Enemigo[Greenfoot.getRandomNumber(5) + 15];
+        for(int i=0; i<etipo1.length; i++)
+        {
+            etipo1[i] = new Enemigo();
+            int eX = Greenfoot.getRandomNumber(getWidth());
+            int eY = Greenfoot.getRandomNumber(getHeight()- 70);
+            addObject(etipo1[i], eX, eY);
+        }
     }
 }
