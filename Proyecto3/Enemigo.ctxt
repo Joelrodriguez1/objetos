@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=\r\n\ Enemigo\ del\ tipo\ 1\ del\ juego\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ 9/5\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ fall()
+comment3.params=
+comment3.target=void\ atackPlayer()
+comment4.params=player
+comment4.target=void\ followPlayer(greenfoot.Actor)
+numComments=5
