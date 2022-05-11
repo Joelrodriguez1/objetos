@@ -12,6 +12,7 @@ public class NivelUno extends World
     Counter contadorT = new Counter();
     int start = 0;
     int tiempof = 0;
+    GreenfootSound backgroundMusic = new GreenfootSound("musica2min.wav");
     /**
      * Constructor for objects of class NivelUno.
      * 
@@ -25,17 +26,26 @@ public class NivelUno extends World
         addObject(contadorT, 700, 30);
         contadorT.setValue(300);
         
+        start=1;
+
         prepare();
     }
     
     public void act(){
-     
+         backgroundMusic.playLoop();
         if(Greenfoot.isKeyDown("ESC")){
             Greenfoot.setWorld(new NivelUno());
         }
         if (Greenfoot.isKeyDown("P"))
         {
             Greenfoot.setWorld(new Pausa());
+        }
+        
+     
+        if(tim.millisElapsed() > 1000)
+        {
+            contadorT.add(-1);
+            tim.mark();
         }
         
         
