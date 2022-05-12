@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NivelUno
+comment0.text=\n\ Write\ a\ description\ of\ class\ NivelUno\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=NivelUno()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=cant
+comment3.target=void\ createEnemys(int)
+comment3.text=Crea\ los\ enemigos
+numComments=4

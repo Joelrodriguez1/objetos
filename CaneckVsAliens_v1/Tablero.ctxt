@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=c\ msj
+comment1.target=Tablero(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ dibuja()
+comment3.params=
+comment3.target=void\ decrementar()
+comment4.params=
+comment4.target=void\ incrementar()
+comment5.params=
+comment5.target=int\ obtenerValor()
+comment6.params=
+comment6.target=void\ act()
+numComments=7
