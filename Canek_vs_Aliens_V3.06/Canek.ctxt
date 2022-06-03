@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Canek
+comment0.text=\r\n\ Jugador\ para\ el\ nivel\ 1\ del\ juego\r\n\ \r\n\ @author\ Antonio\r\n\ @version\ 1/06/2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Mueve\ al\ jugador\ de\ izquierda\ a\ derecha,\ salta\ y\ dispara.\r\n
+numComments=2

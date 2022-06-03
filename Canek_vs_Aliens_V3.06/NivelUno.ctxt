@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NivelUno
+comment0.text=\r\n\ Primer\ nivel\ del\ juego\r\n\ \r\n\ @author\ Antonio\ \r\n\ @version\ 1/\ 06\ /22\r\n
+comment1.params=
+comment1.target=NivelUno()
+comment1.text=\r\n\ Crea\ el\ nivel\ uno,\ a\u00F1ade\ el\ suelo,\ jugador\ y\ contadores\r\n,\ a\u00F1ade\ la\ musica\ de\ fondo\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Reproduce\ la\ musica\ de\ fondo.\r\n\ Llama\ a\ las\ funcines\ pausarJuego(),\ creaEnemigos()\ para\ poder\ usarlas\ en\ el\ nivel.\r\n\ Si\ el\ tiempo\ acaba\ termina\ el\ juego\r\n
+numComments=3

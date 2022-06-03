@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FinDelJuego
+comment0.text=\r\n\ Pantalla\ que\ nos\ indica\ que\ el\ juego\ acabo.\r\n\ \r\n\ @author\ Antonio\ \r\n\ @version\ 31/05/22\r\n
+comment1.params=
+comment1.target=FinDelJuego()
+comment1.text=\r\n\ Genera\ un\ objeto\ GameOver,\ lo\ muestra\ en\ pantalla\r\n\ y\ termina\ el\ juego.\r\n
+numComments=2

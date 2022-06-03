@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NivelTres
+comment0.text=\r\n\ Nivel\ 3\ del\ juego.\r\n\ \r\n\ @author\ Antonio,\ Carlos\ y\ Joel\ \r\n\ @version\ 2/06/2022\r\n
+comment1.params=
+comment1.target=NivelTres()
+comment1.text=\r\n\ \ Crea\ el\ fondo\ para\ nivel\ 3,\ a\u00F1ade\ el\ suelo,\ el\ jugador\ y\ contadores\r\n\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Reproduce\ la\ musica\ de\ fondo.\r\n\ Llama\ a\ las\ funcines\ pausarJuego(),\r\n\ creaEnemigos()\ (que\ en\ este\ nivel\ nos\ permite\ crear\ enemigos\ de\ los\ 3\ tipos)\ para\ poder\ usarlas\ en\ el\ nivel.\r\n\ Si\ el\ tiempo\ acaba\ termina\ el\ juego\r\n
+numComments=3

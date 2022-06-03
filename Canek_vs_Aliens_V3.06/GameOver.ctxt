@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ Objeto\ Gameover\ para\ se\u00F1alar\ que\ se\ acabo\ el\ juego\r\n\ \r\n\ @author\ Carlos\r\n\ @version\ 31/05/2022\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ganaste
+comment0.text=\r\n\ Pantalla\ que\ nos\ indica\ que\ ganaste\ el\ juego.\r\n\ \r\n\ @author\ Antonio\r\n\ @version\ 31/05/2022\r\n
+comment1.params=
+comment1.target=Ganaste()
+comment1.text=\r\n\ Crea\ un\ objeto\ Win,\ lo\ muestra\ en\ pantalla\ y\ termina\ el\ juego.\r\n\ \r\n
+numComments=2
