@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Disparo
+comment0.text=\n\ Proyectil\ que\ dispara\ el\ jugador.\n\ \n\ @author\ Antonio,\ Joel\n\ @version\ 15/05/2022\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Si\ la\ bala\ toca\ a\ un\ enemigo\:\n\ \ La\ puntuacion\ se\ incrementa,\ \n\ \ el\ enemigo\ y\ la\ bala\ desaparecen\n
+numComments=2

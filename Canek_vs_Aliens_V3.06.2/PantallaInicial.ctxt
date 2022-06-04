@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PantallaInicial
+comment0.text=\n\ Pantalla\ inicial\ que\ "saluda"\ al\ jugador\n\ \n\ @author\ Antonio\n\ @version\ 11/05/2022\n
+comment1.params=
+comment1.target=PantallaInicial()
+comment1.text=\n\ Crea\ un\ fondo\ nuevo,\ le\ a\u00F1ade\ el\ logo,\ y\ el\ texto\ para\ continuar.\ \n\ Reproduce\ la\ musica\ de\ fondo\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Cuando\ Presionas\ la\ tecla\ espacio\ nos\ lleva\ al\ menu\ principal.\n
+numComments=3

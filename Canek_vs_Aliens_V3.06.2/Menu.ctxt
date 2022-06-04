@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Clase\ que\ nos\ muestra\ el\ menu\ principal\ y\ nos\ deja\ jugar\n\ \ o\ salir\ a\ la\ pantalla\ inicial\n\ @author\ Antonio,\ Carlos,\ Joel.\n\ @version\ 9/05/2022\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\n\ Crea\ un\ fondo\ y\ llama\ a\ la\ funcion\ -hacerMundo().\n\ \n
+comment2.params=
+comment2.target=void\ hacerMundo()
+comment2.text=\n\ A\u00F1ade\ los\ objetos\ Jugar\ y\ Salir\n\ y\ la\ flecha\ para\ seleccionar\ alguno.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\nReproduce\ la\ musica\ de\ fondo,\ \nnos\ permite\ seleccionar\ que\ parte\ del\ menu\ queremos\ utilizar\n\n
+numComments=4

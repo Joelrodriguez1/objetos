@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Contiene\ todo\ lo\ necesario\ para\ que\ el\ juagador\ se\ mueva,\ salte\ y\ dispare\n\ \n\ @author\ Antonio,\ Carlos\ y\ Joel\n\ @version\ 1/06/2022\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ Velocidad\ inicial\ del\ jugador\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Mueve\ al\ jugador\ de\ izquierda\ a\ derecha,\ salta\ y\ dispara.\n
+comment3.params=
+comment3.target=void\ fall()
+comment3.text=\n\ Le\ pone\ "gravedad"\ al\ jugador.\n
+comment4.params=
+comment4.target=void\ jump()
+comment4.text=\n\ hace\ saltar\ al\ jugador\n
+comment5.params=
+comment5.target=void\ fire()
+comment5.text=\n\ Crea\ un\ nuevo\ objeto\ disparo\ y\ lo\ dispara\ a\ donde\ este\ se\u00F1alado\ con\ el\ mouse.\n
+numComments=6

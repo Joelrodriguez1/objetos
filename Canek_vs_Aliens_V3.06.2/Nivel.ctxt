@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Nivel
+comment0.text=\n\ Contiene\ lo\ escencial\ para\ crear\ los\ niveles\ del\ juego.\n\ \n\ @author\ Antonio,\ Carlos\ y\ Joel\ \n\ @version\ 30/05/2022\n
+comment1.params=
+comment1.target=Nivel()
+comment1.text=\nCrea\ un\ mundo\ y\ le\ a\u00F1ade\ el\ contador\ de\ tiempo,\ el\ de\ puntos\ y\nlas\ vidas\ del\ jugador\n\ \n
+comment2.params=tiempo\ tipo
+comment2.target=void\ creaEnemigos(int,\ int)
+comment2.text=\n\ Crea\ los\ enemigos\ para\ el\ juego\ dependiendo\ del\ nivel\n\ \n\ @param\ int\ tiempo\n\ @param\ int\ tipo\n
+numComments=3

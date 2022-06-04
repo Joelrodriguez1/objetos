@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\n\ Tablero\ que\ nos\ permite\ mostrar\ los\ datos\ del\ juego.\n\ \n\ @author\ Antonio,\ Carlos\ y\ Joel\ \n\ @version\ 3/06/2022\n
+comment1.params=c\ msj
+comment1.target=Tablero(int,\ java.lang.String)
+comment1.text=\n\ Nos\ permite\ crear\ el\ Tablero\ recibiendo\ el\ contenido\ y\ el\ mensaje\ a\ mostrar\n\ \n\ @param\ int\ c\n\ @param\ String\ msj\n
+comment2.params=
+comment2.target=void\ dibuja()
+comment2.text=\n\ Dibuja\ el\ tablero\ en\ le\ mundo\n
+comment3.params=
+comment3.target=void\ decrementar()
+comment3.text=\n\ Decrementa\ la\ informacion\ del\ tablero\n
+comment4.params=
+comment4.target=void\ incrementar()
+comment4.text=\n\ Incrementa\ la\ informacion\ del\ tablero\n
+comment5.params=
+comment5.target=int\ obtenerValor()
+comment5.text=\n\ Obtiene\ el\ valor\ del\ contenido\ del\ contador.\n
+numComments=6

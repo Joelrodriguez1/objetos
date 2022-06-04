@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NivelDos
+comment0.text=\n\ Nivel\ 2\ del\ juego.\n\ \n\ @author\ Antonio,\ Carlos\ y\ Joel\n\ @version\ 1/06/2022\n
+comment1.params=
+comment1.target=NivelDos()
+comment1.text=\n\ \ Crea\ el\ fondo\ para\ nivel\ dos,\ a\u00F1ade\ el\ suelo,\ plataformas\ para\ el\ jugador,\ el\ jugador\ y\ contadores\n,\ a\u00F1ade\ la\ musica\ de\ fondo.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Reproduce\ la\ musica\ de\ fondo.\n\ Llama\ a\ las\ funcines\ pausarJuego(),\ creaEnemigos()\ para\ poder\ usarlas\ en\ el\ nivel.\n\ Si\ el\ tiempo\ acaba\ termina\ el\ juego\n
+numComments=3

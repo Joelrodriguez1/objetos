@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Boton
+comment0.text=\n\ Nos\ permite\ hacer\ botones\n\ \n\ @author\ Carlos\ \n\ @version\ 25/05/2022\n
+comment1.params=image\ link
+comment1.target=Boton(java.lang.String,\ greenfoot.World)
+comment1.text=\n\ Crea\ el\ boton\ y\ recibe\ la\ imagen\ que\ quiere\ y\ el\ mundo\ donde\ estara\n\ \n\ @param\ String\ image\n\ @param\ Worl\ link\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Boton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3
